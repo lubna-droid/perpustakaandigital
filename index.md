@@ -12,6 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Misteri Huruf Menari](ebook/Misteri Huruf Menari) – Pratiwi. (2024)
 8. [Si Cemong Coak](ebook/Si Cemong Coak) – Abqary. (2022)
 9. [Dimana Kacang Sipet](ebook/Dimana Kacang Sipet) – Hartanti. (2022)
+10. [Hikayat Negara Cincin Api](ebook/Hikayat Negara Cincin Api) – Isyani & Sophie. (2024)
 
 ---
 *Powered by GitHub Pages*
