@@ -5,8 +5,13 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [AI Detection in Academic Writing](ebook/AI Detection in Academic Writing.pdf) – Biyuan M. (2020)
 2. [Managing Cloud Native Data on Kubernetes](ebook/Managing Cloud Native Data on Kubernetes.pdf) – Carpenter & McFadin. (2023)
-3. [Biji Merah Luna](ebook/Biji Merah Luna.pdf) – Kudo & Darmawan. (2023)
+3. [Biji Merah Luna](ebook/Biji Merah Luna.pdf) – Kudo. (2023)
 4. [Rescue Rescue](ebook/Rescue Rescue.pdf) – Cholidatul & Hanifa. (2024)
+5. [English for Nusantara](ebook/English for Nusantara – Damayanti et al. (2022)
+6. [Layur Tetaplah Berlayar](ebook/Layur Tetaplah Berlayar – Anang YB. (2023)
+7. [Misteri Huruf Menari](ebook/Misteri Huruf Menari – Pratiwi. (2024)
+8. [Si Cemong Coak](ebook/Si Cemong Coak) – Abqary. (2022)
+9. [Dimana Kacang Sipet](ebook/Dimana Kacang Sipet) – Hartanti. (2022)
 
 ---
 *Powered by GitHub Pages*
