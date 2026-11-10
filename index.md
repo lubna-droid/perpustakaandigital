@@ -1,6 +1,12 @@
 # Digital Library
+Nama  :Lubna Feyzha Rahman
+
+NIM   :13040124120027
+
+Kelas :A
+
 Selamat Datang di Perpustakaan Digital
-Nama: Lubna Feyzha Rahman
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [AI Detection in Academic Writing](ebook/AI Detection in Academic Writing.pdf) – Biyuan M. (2020)
