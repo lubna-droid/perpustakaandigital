@@ -19,7 +19,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Si Cemong Coak](ebook/Si Cemong Coak.pdf) – Abqary. (2022)
 9. [Dimana Kacang Sipet](ebook/Dimana Kacang Sipet.pdf) – Hartanti. (2022)
 10. [Hikayat Negara Cincin Api](ebook/Hikayat Negara Cincin Api.pdf) – Isyani & Sophie. (2024)
-11. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) – Lubna Feyzha Rahman. (2024)
+11. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) – Lubna Feyzha Rahman. (2026)
 
 ---
 *Powered by GitHub Pages*
