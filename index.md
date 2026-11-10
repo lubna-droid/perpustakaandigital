@@ -3,7 +3,7 @@ Nama  :Lubna Feyzha Rahman
 
 NIM   :13040124120027
 
-Kelas :A
+Kelas :A 
 
 Selamat Datang di Perpustakaan Digital
 
